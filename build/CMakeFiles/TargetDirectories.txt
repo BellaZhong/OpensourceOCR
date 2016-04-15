@@ -1,0 +1,1 @@
+/home/zhong/basicOCR-master/build/CMakeFiles/OCR.dir
